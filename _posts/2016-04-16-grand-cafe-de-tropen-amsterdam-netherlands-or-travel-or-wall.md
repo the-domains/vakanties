@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-08-12T17:52:58.471Z'
+datePublished: '2016-08-12T18:10:51.420Z'
 sourcePath: >-
   _posts/2016-04-16-grand-cafe-de-tropen-amsterdam-netherlands-or-travel-or-wall.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.wallpaper.com/travel/netherlands/amsterdam/restaurants/grand-caf-de-tropen
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - tropen
   - piet
@@ -22,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-12T17:52:57.973Z'
+dateModified: '2016-08-12T18:10:50.637Z'
 title: 'Grand Café de Tropen, Amsterdam, Netherlands'
 app_links: []
 publisher:
@@ -39,6 +37,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: grand-cafe-de-tropen-amsterdam-netherlands/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
