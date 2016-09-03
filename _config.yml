@@ -1,16 +1,18 @@
-typography_spectrum: 0.38608347601257265
+layout_spectrum: 0.47102379286661744
+typography_spectrum: 0.6064514557365328
 color:
-  brandStrength: 0.008854035288095474
-  lightness: 0.6734817931428552
-  saturation: 0.7958555463701487
-  rhythmicContrast: 0.408760451246053
+  brandStrength: 0.3385748970322311
+  lightness: 0.4399226310197264
+  saturation: 0.6864752385299653
+  rhythmicContrast: 0.038146224804222584
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-layout_spectrum: 0.08965400769375265
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+coverPrefs:
+  filter: false
 name: Vakanties
 navigation:
   - name: 'Grand Café de Tropen, Amsterdam, Netherlands'
